@@ -1,4 +1,4 @@
-<div class="container h-100 d-flex">
+﻿<div class="container h-100 d-flex">
     <div class="row justify-content-center align-self-center">
         <main class="col-sm-5">
             
@@ -15,8 +15,6 @@
                 <a class="tw-ic mr-3" role="button" href="https://twitter.com/ojoaodesousa"><i class="fab fa-twitter"></i></a>
                 <!--Linkedin-->
                 <a class="li-ic mr-3" role="button" href="https://linkedin.com/joaopedrodesousa"><i class="fab fa-linkedin-in"></i></a>
-                <!--Instagram-->
-                <a class="ins-ic mr-3" role="button" href="https://instagram.com/ojoaodesousa"><i class="fab fa-instagram"></i></a>
                 <!--GitHub-->
                 <a class="ins-ic mr-3" role="button" href="https://github.com/joaodesousa"><i class="fab fa-github"></i></a>
             
